@@ -41,3 +41,5 @@ if UpdatedDate in [dbdate,dbdate_plus] :
 
     except:
         conn.close()
+
+      
