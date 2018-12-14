@@ -14,4 +14,3 @@ def mainpage():
 
     output = bottle.template("/home/ubuntu/epl/htmlcss.tpl",rows = result)
     return output 
-
